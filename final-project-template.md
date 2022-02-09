@@ -1,8 +1,8 @@
-# [Your Final Project Title]
+# [Customer Segmentation using Machine Learning (unsupervised learning)
 
-**[Your Name]**
+**Zijing XUE**
 
-**[Your Cohort Campus & Time]**
+**DAFT NOV 2021**
 
 ## Overview
 
