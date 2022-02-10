@@ -1,8 +1,8 @@
-# [Your Final Project Title]
+# [Customer Segmentation using Machine Learning]
 
-**[Your Name]**
+**Zijing XUE**
 
-**[Your Cohort Campus & Time]**
+**DAFT NOV 2021**
 
 ## Overview
 
@@ -13,22 +13,6 @@ Include the following points in your overview:
 * What is the hypothesis you would like to test in order to answer your question?
 	* Frame your hypothesis with statistical/data languages (i.e. define Null and Alternative Hypothesis). You can use formulas if you want but that is not required.
 * How will you test your hypothesis?	
-
-Notes:
-
-* You can submit the final project with Jupyter Notebook. If you would like to submit a different file format, make sure to discuss with the instructor.
-* Based on the nature of your goal and your intended problem-solving approach, you are encouraged to use as many skills, technologies, and tools as possible that you have learned in this course, which include but are not limited to:
-	* Python
-	* MySQL
-	* Statistical analysis
-	* Data visualization
-	* Jupyter Notebook
-	* Tableau
-	* Machine Learning
-	* Apache Spark / Network Analysis / Natual Language Processing
-* Include screenshots wherever relevant.
-* Feel free to add more sections to this worksheet.
-* Meet with your instructor/TA on daily basis to obtain feedback and support.
 
 ## Data Preparation
 
