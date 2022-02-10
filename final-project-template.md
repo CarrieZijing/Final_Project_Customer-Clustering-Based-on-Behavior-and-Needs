@@ -1,4 +1,4 @@
-# [Customer Segmentation using Machine Learning]
+# [Customer Clustering using Machine Learning]
 
 **Zijing XUE**
 
