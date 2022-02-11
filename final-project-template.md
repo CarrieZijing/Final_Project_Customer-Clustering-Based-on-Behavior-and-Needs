@@ -12,8 +12,6 @@
 
 ## Data Preparation
 
-### Overview:
-
 * My data set is about customers of a retail company
 * data source: 
  https://www.kaggle.com/imakash3011/customer-personality-analysis
