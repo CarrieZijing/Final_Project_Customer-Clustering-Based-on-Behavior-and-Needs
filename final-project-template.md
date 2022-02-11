@@ -15,10 +15,10 @@
 ### Overview:
 
 * My data set is about customers of a retail company
-* I found my dataset on Kaggle: \
+* data source: 
  https://www.kaggle.com/imakash3011/customer-personality-analysis
-* size: 2240 rows x 29 
-* column description:
+* size: 2240 rows x 29 columns
+* description:
 
 #### People
 
@@ -83,10 +83,10 @@
 
 
 ### Model Training and Evaluation
-	* PCA
-	* Model Building 
-	* Model Evaluation
-	* Unsupervised ML
+* PCA
+* Model Building 
+* Model Evaluation
+* Unsupervised ML
 
 ## Conclusion
 * Insight of clusters
