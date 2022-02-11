@@ -8,21 +8,58 @@
 
 Include the following points in your overview:
 
-* What data/business/research/personal question you would like to answer?
-	* Make sure the question description is human-friendly because you will have non-tech audience to see your final project presentation.
-* What is the hypothesis you would like to test in order to answer your question?
-	* Frame your hypothesis with statistical/data languages (i.e. define Null and Alternative Hypothesis). You can use formulas if you want but that is not required.
-* How will you test your hypothesis?	
+* Help the company to better understand their customers by separating customers into groups that reflect similarities among them.
+	* ROI: modify products based on target customers needs.
+	* Customer satisfaction: serve customers with different shopping behaviors by attractive campaigns and customer service.
 
 ## Data Preparation
 
 ### Overview:
 
-* What is your dataset about?
-* Where/how did you obtain your dataset?
-	* It can be either a public dataset or collected with API/web scraping.
-	* Provide a link if possible.
-* General description of the dataset such as the size, complexity, data types, etc.
+* My data set is about customers of a retail company
+* I found my dataset on Kaggle: \
+ https://www.kaggle.com/imakash3011/customer-personality-analysis
+* size: 2240 rows x 29 
+* column description:
+
+<br>People<br>
+
+ID: Customer's unique identifier
+Year_Birth: Customer's birth year
+Education: Customer's education level
+Marital_Status: Customer's marital status
+Income: Customer's yearly household income
+Kidhome: Number of children in customer's household
+Teenhome: Number of teenagers in customer's household
+Dt_Customer: Date of customer's enrollment with the company
+Recency: Number of days since customer's last purchase
+Complain: 1 if the customer complained in the last 2 years, 0 otherwise
+
+<br>Products<br>
+
+MntWines: Amount spent on wine in last 2 years
+MntFruits: Amount spent on fruits in last 2 years
+MntMeatProducts: Amount spent on meat in last 2 years
+MntFishProducts: Amount spent on fish in last 2 years
+MntSweetProducts: Amount spent on sweets in last 2 years
+MntGoldProds: Amount spent on gold in last 2 years
+
+<br>Promotion<br>
+
+NumDealsPurchases: Number of purchases made with a discount
+AcceptedCmp1: 1 if customer accepted the offer in the 1st campaign, 0 otherwise
+AcceptedCmp2: 1 if customer accepted the offer in the 2nd campaign, 0 otherwise
+AcceptedCmp3: 1 if customer accepted the offer in the 3rd campaign, 0 otherwise
+AcceptedCmp4: 1 if customer accepted the offer in the 4th campaign, 0 otherwise
+AcceptedCmp5: 1 if customer accepted the offer in the 5th campaign, 0 otherwise
+Response: 1 if customer accepted the offer in the last campaign, 0 otherwise
+
+<br>Place<br>
+
+NumWebPurchases: Number of purchases made through the company’s website
+NumCatalogPurchases: Number of purchases made using a catalogue
+NumStorePurchases: Number of purchases made directly in stores
+NumWebVisitsMonth: Number of visits to company’s website in the last month
 
 ### Data Ingestion
 
