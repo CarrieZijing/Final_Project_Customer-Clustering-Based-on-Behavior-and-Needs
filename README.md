@@ -74,6 +74,9 @@
 
 ## Data Analysis
 
+* Project planning:
+<img width="1124" alt="image" src="https://user-images.githubusercontent.com/93996718/153622663-3ce6d64a-a043-431b-8aa5-e2a88fbc64c8.png">
+
 ### EDA
 * Understanding of data
 * Correlation
