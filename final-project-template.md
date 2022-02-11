@@ -6,8 +6,6 @@
 
 ## Overview
 
-Include the following points in your overview:
-
 * Help the company to better understand their customers by separating customers into groups that reflect similarities among them.
 	* ROI: modify products based on target customers needs.
 	* Customer satisfaction: serve customers with different shopping behaviors by attractive campaigns and customer service.
