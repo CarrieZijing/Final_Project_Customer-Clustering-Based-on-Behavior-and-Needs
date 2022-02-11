@@ -84,7 +84,6 @@ Include the following points in your overview:
 * Descriptive Analysis
 
 
-
 ### Model Training and Evaluation
 	* PCA
 	* Model Building 
@@ -96,4 +95,4 @@ Include the following points in your overview:
 * Patterns Analysis from Descrptive Statistics
 * Profiling
 
-![plot](.![clusters profile](https://user-images.githubusercontent.com/93996718/153616643-19fe1290-3e7a-42e7-b18d-be66e2dc90ad.jpg))
+![clusters profile](https://user-images.githubusercontent.com/93996718/153616643-19fe1290-3e7a-42e7-b18d-be66e2dc90ad.jpg)
