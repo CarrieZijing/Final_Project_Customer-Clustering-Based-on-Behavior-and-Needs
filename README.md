@@ -1,4 +1,4 @@
-# [Customer Clustering Based on Behavior & Product categories]
+# [Customer Clustering Based on Behaviors & Needs]
 
 **Zijing XUE**
 
