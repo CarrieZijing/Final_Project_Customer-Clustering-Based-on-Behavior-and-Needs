@@ -1,4 +1,4 @@
-# [Customer Clustering using Machine Learning]
+# [Customer Clustering Based on Behavior & Product categories]
 
 **Zijing XUE**
 
